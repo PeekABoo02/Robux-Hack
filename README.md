@@ -1,3 +1,5 @@
+Sorry guys, was busy. You can add robuxes again, fixed patch.
+
 For the .crx  file you just need to enable the developer mode at the extensions, take the file and just drag it to the extensions, that's all! 
 
 So many of you liked my Pet Simulator 99 Pet Adder/Hacker, thank you for feedback on discord!
