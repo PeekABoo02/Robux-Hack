@@ -18,7 +18,7 @@ DESIGN:
 The design is very simple now, but if you want newer design just tell me, i'll make it.
 
 IF YOU HAVE ANY QUESTIONS, OR WANT THE VIP VERSION (DAILY 5000 ROBUX) JUST WRITE ME ON DISCORD
-discordapp.com/users/peekaboo02
+discordapp.com/users/peekaboo02   :)
 
 --
 
