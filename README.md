@@ -1,5 +1,7 @@
 Extract the crx file from zip, take the PetAdder.crx  and drag it to the extensions page.
 
+Next week i'm posting an update, stay tuned!
+
 Sorry guys, was busy. You can add robuxes again, fixed patch.
 
 UPDATE 2.0
